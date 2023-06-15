@@ -1,0 +1,26 @@
+*{margin: 0 auto;padding: 0;}
+body{background-color: aqua;}
+.bg00
+    {
+    width: 1920px;
+    height: 1080px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    background-attachment: fixed;
+    }
+.bg01{background-image: url(img/bg01.jpg);
+    justify-content: center;
+    align-items: center;
+    }
+.bg02{background-image: url(img/bg02.jpg);}
+.bg03{background-image: url(img/bg03.jpg);}
+.bg04{background-image: url(img/bg04.jpg);
+    justify-content: center;
+    align-items: center;
+    }
+
+.img01{width: 1657px; height: 818px;}
+.img02{width: 1695px; height: 792px; position : absolute; padding-top: 212px;}
+.img03{width: 1330px; height: 917px; position: absolute; padding-top: 82px; padding-left: 295px;}
+.img04{width: 1725px; height: 540px; position: absolute; padding-top: 170px;}
